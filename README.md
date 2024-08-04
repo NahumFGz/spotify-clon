@@ -1,4 +1,5 @@
 # Astro Starter Kit: Basics
+npx astro add tailwind
 
 ```sh
 npm create astro@latest -- --template basics
